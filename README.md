@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-###See what I'm currently working on
-emotion_ai -> Detecting key facial points to predict human emotion
+### See what I'm currently working on
+**emotion_ai** -> Detecting key facial points to predict human emotion
 <!--
 **KorinneStegall/KorinneStegall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
